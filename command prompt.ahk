@@ -1,0 +1,1 @@
+﻿Run, %windir%\system32\cmd.exe
